@@ -38,4 +38,6 @@
 详细配置参见`SpringForAll / spring-boot-starter-swagger`
 
 ## 访问 ##
+API:
 `http://localhost:8080/swagger/swagger-ui.html`
+H2控制台: `http://localhost:8080/swagger/h2`
